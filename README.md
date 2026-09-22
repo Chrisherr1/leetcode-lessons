@@ -36,3 +36,8 @@ eg:
 List<String> group = new ArrayList<>();
 group.add(strs[i]);
 map.put(key,group);
+
+**CodeAcademy: Digits Vs. Letters**
+
+Use counters when the categories are known and few, and a hash map only when the keys are unknown or too many to declare by hand.
+
